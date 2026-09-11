@@ -1,8 +1,8 @@
 {
-  "manifest_id": "man_29a2204ec24f",
+  "manifest_id": "man_b8fab568f65d",
   "job_id": "job_baseline_001_young_prof_100001",
   "avatar_id": "baseline_001_young_prof",
-  "timestamp_utc": "2026-09-11T15:26:31.674577+00:00",
+  "timestamp_utc": "2026-09-11T15:55:24.901221+00:00",
   "status": "success",
   "avatar_spec": {
     "avatar_id": "baseline_001_young_prof",
@@ -53,11 +53,11 @@
     "refusal_reasons": [],
     "warnings": [],
     "risk_score": 0.0,
-    "checked_at": "2026-09-11T15:26:31.646500+00:00"
+    "checked_at": "2026-09-11T15:55:24.888595+00:00"
   },
   "execution_telemetry": {
     "engine": "mock_inference_engine",
-    "duration_sec": 0.0238,
+    "duration_sec": 0.0072,
     "device": "cpu_synthetic",
     "vram_peak_mb": 0.0,
     "system_ram_mb": 45.0

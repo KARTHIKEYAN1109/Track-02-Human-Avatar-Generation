@@ -1,8 +1,8 @@
 {
-  "manifest_id": "man_674da8369369",
+  "manifest_id": "man_39247ac495cc",
   "job_id": "job_baseline_006_athletic_trainer_100006",
   "avatar_id": "baseline_006_athletic_trainer",
-  "timestamp_utc": "2026-09-11T15:26:31.916546+00:00",
+  "timestamp_utc": "2026-09-11T15:55:25.072899+00:00",
   "status": "success",
   "avatar_spec": {
     "avatar_id": "baseline_006_athletic_trainer",
@@ -53,11 +53,11 @@
     "refusal_reasons": [],
     "warnings": [],
     "risk_score": 0.0,
-    "checked_at": "2026-09-11T15:26:31.891099+00:00"
+    "checked_at": "2026-09-11T15:55:25.060240+00:00"
   },
   "execution_telemetry": {
     "engine": "mock_inference_engine",
-    "duration_sec": 0.0056,
+    "duration_sec": 0.0079,
     "device": "cpu_synthetic",
     "vram_peak_mb": 0.0,
     "system_ram_mb": 45.0

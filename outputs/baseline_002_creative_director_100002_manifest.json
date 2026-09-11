@@ -1,8 +1,8 @@
 {
-  "manifest_id": "man_055ad2ebe422",
+  "manifest_id": "man_9a1b4454cd66",
   "job_id": "job_baseline_002_creative_director_100002",
   "avatar_id": "baseline_002_creative_director",
-  "timestamp_utc": "2026-09-11T15:26:31.786354+00:00",
+  "timestamp_utc": "2026-09-11T15:55:24.935148+00:00",
   "status": "success",
   "avatar_spec": {
     "avatar_id": "baseline_002_creative_director",
@@ -53,11 +53,11 @@
     "refusal_reasons": [],
     "warnings": [],
     "risk_score": 0.0,
-    "checked_at": "2026-09-11T15:26:31.776876+00:00"
+    "checked_at": "2026-09-11T15:55:24.921352+00:00"
   },
   "execution_telemetry": {
     "engine": "mock_inference_engine",
-    "duration_sec": 0.0063,
+    "duration_sec": 0.009,
     "device": "cpu_synthetic",
     "vram_peak_mb": 0.0,
     "system_ram_mb": 45.0

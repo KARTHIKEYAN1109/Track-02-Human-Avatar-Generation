@@ -1,40 +1,40 @@
 {
-  "benchmark_timestamp_utc": "2026-09-11T15:26:33.202187+00:00",
-  "total_specs_evaluated": 18,
-  "successful_jobs": 18,
+  "benchmark_timestamp_utc": "2026-09-11T15:55:25.091411+00:00",
+  "total_specs_evaluated": 6,
+  "successful_jobs": 6,
   "failed_jobs": 0,
   "job_success_rate": 1.0,
-  "total_wall_clock_time_sec": 0.5985,
+  "total_wall_clock_time_sec": 0.2205,
   "latency_metrics": {
-    "avg_job_preparation_ms": 1.97,
-    "avg_execution_ms": 11.43,
-    "avg_validation_ms": 18.95,
-    "throughput_jobs_per_sec": 30.07
+    "avg_job_preparation_ms": 2.07,
+    "avg_execution_ms": 14.9,
+    "avg_validation_ms": 16.78,
+    "throughput_jobs_per_sec": 27.21
   },
   "memory_metrics": {
-    "initial_process_ram_mb": 37.43,
-    "final_process_ram_mb": 38.65,
-    "peak_process_ram_mb": 38.65,
+    "initial_process_ram_mb": 58.98,
+    "final_process_ram_mb": 59.09,
+    "peak_process_ram_mb": 59.09,
     "system_total_ram_gb": 15.69
   },
   "evaluation_metrics": {
-    "mean_prompt_adherence": 0.9921,
-    "batch_diversity_score": 0.2888,
+    "mean_prompt_adherence": 0.9762,
+    "batch_diversity_score": 0.9,
     "diversity_details": {
-      "total_avatars_evaluated": 18,
+      "total_avatars_evaluated": 6,
       "unique_skin_tones_count": 6,
       "unique_age_bands_count": 4,
-      "unique_hairstyles_count": 5,
+      "unique_hairstyles_count": 6,
       "unique_presentations_count": 5,
       "unique_backgrounds_count": 6,
       "coverage_metrics": {
-        "skin_tone_diversity": 0.333,
-        "age_band_diversity": 0.222,
-        "hairstyle_diversity": 0.278,
-        "presentation_diversity": 0.278,
-        "background_diversity": 0.333
+        "skin_tone_diversity": 1.0,
+        "age_band_diversity": 0.667,
+        "hairstyle_diversity": 1.0,
+        "presentation_diversity": 0.833,
+        "background_diversity": 1.0
       },
-      "overall_diversity_score": 0.2888
+      "overall_diversity_score": 0.9
     }
   },
   "environment": {

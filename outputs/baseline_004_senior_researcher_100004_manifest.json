@@ -1,8 +1,8 @@
 {
-  "manifest_id": "man_7fed0e6e2a97",
+  "manifest_id": "man_cbd119f9b01e",
   "job_id": "job_baseline_004_senior_researcher_100004",
   "avatar_id": "baseline_004_senior_researcher",
-  "timestamp_utc": "2026-09-11T15:26:31.829330+00:00",
+  "timestamp_utc": "2026-09-11T15:55:25.004096+00:00",
   "status": "success",
   "avatar_spec": {
     "avatar_id": "baseline_004_senior_researcher",
@@ -53,11 +53,11 @@
     "refusal_reasons": [],
     "warnings": [],
     "risk_score": 0.0,
-    "checked_at": "2026-09-11T15:26:31.820018+00:00"
+    "checked_at": "2026-09-11T15:55:24.993366+00:00"
   },
   "execution_telemetry": {
     "engine": "mock_inference_engine",
-    "duration_sec": 0.0055,
+    "duration_sec": 0.0064,
     "device": "cpu_synthetic",
     "vram_peak_mb": 0.0,
     "system_ram_mb": 45.0
