@@ -1,8 +1,8 @@
 {
-  "manifest_id": "man_5b3686e032a4",
+  "manifest_id": "man_ecd3c7d3057d",
   "job_id": "job_strong_geo_06_mediterranean_culinary_200006",
   "avatar_id": "strong_geo_06_mediterranean_culinary",
-  "timestamp_utc": "2026-09-11T14:00:51.153635+00:00",
+  "timestamp_utc": "2026-09-11T15:26:32.136157+00:00",
   "status": "success",
   "avatar_spec": {
     "avatar_id": "strong_geo_06_mediterranean_culinary",
@@ -53,11 +53,11 @@
     "refusal_reasons": [],
     "warnings": [],
     "risk_score": 0.0,
-    "checked_at": "2026-09-11T14:00:51.128599+00:00"
+    "checked_at": "2026-09-11T15:26:32.125615+00:00"
   },
   "execution_telemetry": {
     "engine": "mock_inference_engine",
-    "duration_sec": 0.0072,
+    "duration_sec": 0.0063,
     "device": "cpu_synthetic",
     "vram_peak_mb": 0.0,
     "system_ram_mb": 45.0

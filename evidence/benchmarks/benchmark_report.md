@@ -2,7 +2,7 @@
 
 **Track 02 — Open-Source AI Human-Avatar Generation System**  
 **Assessment**: INCUBRIX PRIVATE LIMITED — SASTRA 2027 Graduate Hiring  
-**Execution Timestamp**: 2026-09-11T14:00:52.433297+00:00  
+**Execution Timestamp**: 2026-09-11T15:26:33.202187+00:00  
 
 ---
 
@@ -12,10 +12,10 @@
 | :--- | :--- | :--- |
 | **Total Evaluated Specs** | 18 | >= 18 specs |
 | **Job Success Rate** | **100.0%** | 100% on valid specs |
-| **Total Wall Clock Time** | **0.71 s** | Sub-second per mock job |
-| **Throughput (Local CPU)** | **25.4 jobs/sec** | High local orchestration throughput |
-| **Avg Job Prep Latency** | 4.13 ms | Low overhead |
-| **Avg Validation Latency** | 18.50 ms | Cryptographic SHA256 + Pillow checks |
+| **Total Wall Clock Time** | **0.60 s** | Sub-second per mock job |
+| **Throughput (Local CPU)** | **30.1 jobs/sec** | High local orchestration throughput |
+| **Avg Job Prep Latency** | 1.97 ms | Low overhead |
+| **Avg Validation Latency** | 18.95 ms | Cryptographic SHA256 + Pillow checks |
 | **Peak Process RAM** | **38.6 MB** | Under 500 MB local footprint |
 | **System Total RAM** | 15.69 GB | Laptop Non-GPU Orchestration |
 | **Mean Prompt Adherence** | **99.2%** | >= 90% structured clause match |

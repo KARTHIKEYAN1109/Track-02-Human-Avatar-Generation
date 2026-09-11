@@ -1,8 +1,8 @@
 {
-  "manifest_id": "man_be61bb852d5c",
+  "manifest_id": "man_76b7ba218dfc",
   "job_id": "job_strong_geo_05_latin_american_social_200005",
   "avatar_id": "strong_geo_05_latin_american_social",
-  "timestamp_utc": "2026-09-11T14:00:51.104765+00:00",
+  "timestamp_utc": "2026-09-11T15:26:32.101088+00:00",
   "status": "success",
   "avatar_spec": {
     "avatar_id": "strong_geo_05_latin_american_social",
@@ -53,11 +53,11 @@
     "refusal_reasons": [],
     "warnings": [],
     "risk_score": 0.0,
-    "checked_at": "2026-09-11T14:00:51.071161+00:00"
+    "checked_at": "2026-09-11T15:26:32.090144+00:00"
   },
   "execution_telemetry": {
     "engine": "mock_inference_engine",
-    "duration_sec": 0.0075,
+    "duration_sec": 0.0058,
     "device": "cpu_synthetic",
     "vram_peak_mb": 0.0,
     "system_ram_mb": 45.0

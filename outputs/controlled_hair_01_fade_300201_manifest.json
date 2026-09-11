@@ -1,8 +1,8 @@
 {
-  "manifest_id": "man_453ad7b7ebf5",
+  "manifest_id": "man_7d2abbd3caa7",
   "job_id": "job_controlled_hair_01_fade_300201",
   "avatar_id": "controlled_hair_01_fade",
-  "timestamp_utc": "2026-09-11T14:00:52.055619+00:00",
+  "timestamp_utc": "2026-09-11T15:26:32.923632+00:00",
   "status": "success",
   "avatar_spec": {
     "avatar_id": "controlled_hair_01_fade",
@@ -53,11 +53,11 @@
     "refusal_reasons": [],
     "warnings": [],
     "risk_score": 0.0,
-    "checked_at": "2026-09-11T14:00:52.042922+00:00"
+    "checked_at": "2026-09-11T15:26:32.913723+00:00"
   },
   "execution_telemetry": {
     "engine": "mock_inference_engine",
-    "duration_sec": 0.0076,
+    "duration_sec": 0.0057,
     "device": "cpu_synthetic",
     "vram_peak_mb": 0.0,
     "system_ram_mb": 45.0

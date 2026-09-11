@@ -1,8 +1,8 @@
 {
-  "manifest_id": "man_5ba34a240bb7",
+  "manifest_id": "man_7391e2281aca",
   "job_id": "job_controlled_attire_01_suit_300301",
   "avatar_id": "controlled_attire_01_suit",
-  "timestamp_utc": "2026-09-11T14:00:52.163190+00:00",
+  "timestamp_utc": "2026-09-11T15:26:33.029219+00:00",
   "status": "success",
   "avatar_spec": {
     "avatar_id": "controlled_attire_01_suit",
@@ -53,11 +53,11 @@
     "refusal_reasons": [],
     "warnings": [],
     "risk_score": 0.0,
-    "checked_at": "2026-09-11T14:00:52.149823+00:00"
+    "checked_at": "2026-09-11T15:26:33.018547+00:00"
   },
   "execution_telemetry": {
     "engine": "mock_inference_engine",
-    "duration_sec": 0.0085,
+    "duration_sec": 0.0069,
     "device": "cpu_synthetic",
     "vram_peak_mb": 0.0,
     "system_ram_mb": 45.0

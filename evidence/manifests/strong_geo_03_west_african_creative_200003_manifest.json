@@ -1,8 +1,8 @@
 {
-  "manifest_id": "man_2073d6523f8a",
+  "manifest_id": "man_e4ab889ebe24",
   "job_id": "job_strong_geo_03_west_african_creative_200003",
   "avatar_id": "strong_geo_03_west_african_creative",
-  "timestamp_utc": "2026-09-11T14:00:51.004516+00:00",
+  "timestamp_utc": "2026-09-11T15:26:32.029109+00:00",
   "status": "success",
   "avatar_spec": {
     "avatar_id": "strong_geo_03_west_african_creative",
@@ -53,11 +53,11 @@
     "refusal_reasons": [],
     "warnings": [],
     "risk_score": 0.0,
-    "checked_at": "2026-09-11T14:00:50.984839+00:00"
+    "checked_at": "2026-09-11T15:26:32.017845+00:00"
   },
   "execution_telemetry": {
     "engine": "mock_inference_engine",
-    "duration_sec": 0.0072,
+    "duration_sec": 0.0063,
     "device": "cpu_synthetic",
     "vram_peak_mb": 0.0,
     "system_ram_mb": 45.0

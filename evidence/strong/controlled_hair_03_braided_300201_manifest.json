@@ -1,8 +1,8 @@
 {
-  "manifest_id": "man_33681df66e0a",
+  "manifest_id": "man_c87fb302f4a7",
   "job_id": "job_controlled_hair_03_braided_300201",
   "avatar_id": "controlled_hair_03_braided",
-  "timestamp_utc": "2026-09-11T14:00:51.415262+00:00",
+  "timestamp_utc": "2026-09-11T15:26:32.360405+00:00",
   "status": "success",
   "avatar_spec": {
     "avatar_id": "controlled_hair_03_braided",
@@ -53,11 +53,11 @@
     "refusal_reasons": [],
     "warnings": [],
     "risk_score": 0.0,
-    "checked_at": "2026-09-11T14:00:51.400905+00:00"
+    "checked_at": "2026-09-11T15:26:32.350745+00:00"
   },
   "execution_telemetry": {
     "engine": "mock_inference_engine",
-    "duration_sec": 0.0073,
+    "duration_sec": 0.0058,
     "device": "cpu_synthetic",
     "vram_peak_mb": 0.0,
     "system_ram_mb": 45.0

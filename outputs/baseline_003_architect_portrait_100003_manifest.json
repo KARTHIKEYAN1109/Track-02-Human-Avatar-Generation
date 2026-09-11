@@ -1,8 +1,8 @@
 {
-  "manifest_id": "man_fd4398ea1db0",
+  "manifest_id": "man_b4bbca3704be",
   "job_id": "job_baseline_003_architect_portrait_100003",
   "avatar_id": "baseline_003_architect_portrait",
-  "timestamp_utc": "2026-09-11T14:00:50.752546+00:00",
+  "timestamp_utc": "2026-09-11T15:26:31.808935+00:00",
   "status": "success",
   "avatar_spec": {
     "avatar_id": "baseline_003_architect_portrait",
@@ -53,11 +53,11 @@
     "refusal_reasons": [],
     "warnings": [],
     "risk_score": 0.0,
-    "checked_at": "2026-09-11T14:00:50.738839+00:00"
+    "checked_at": "2026-09-11T15:26:31.798657+00:00"
   },
   "execution_telemetry": {
     "engine": "mock_inference_engine",
-    "duration_sec": 0.0076,
+    "duration_sec": 0.0061,
     "device": "cpu_synthetic",
     "vram_peak_mb": 0.0,
     "system_ram_mb": 45.0

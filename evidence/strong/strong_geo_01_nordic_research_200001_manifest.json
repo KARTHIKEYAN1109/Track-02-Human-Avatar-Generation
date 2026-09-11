@@ -1,8 +1,8 @@
 {
-  "manifest_id": "man_ccd84b3eda36",
+  "manifest_id": "man_b555b72978ce",
   "job_id": "job_strong_geo_01_nordic_research_200001",
   "avatar_id": "strong_geo_01_nordic_research",
-  "timestamp_utc": "2026-09-11T14:00:50.928628+00:00",
+  "timestamp_utc": "2026-09-11T15:26:31.964125+00:00",
   "status": "success",
   "avatar_spec": {
     "avatar_id": "strong_geo_01_nordic_research",
@@ -53,11 +53,11 @@
     "refusal_reasons": [],
     "warnings": [],
     "risk_score": 0.0,
-    "checked_at": "2026-09-11T14:00:50.909309+00:00"
+    "checked_at": "2026-09-11T15:26:31.953471+00:00"
   },
   "execution_telemetry": {
     "engine": "mock_inference_engine",
-    "duration_sec": 0.0067,
+    "duration_sec": 0.0058,
     "device": "cpu_synthetic",
     "vram_peak_mb": 0.0,
     "system_ram_mb": 45.0
