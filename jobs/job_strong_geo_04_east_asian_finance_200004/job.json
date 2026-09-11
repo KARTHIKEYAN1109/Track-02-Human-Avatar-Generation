@@ -1,0 +1,60 @@
+{
+  "job_id": "job_strong_geo_04_east_asian_finance_200004",
+  "avatar_spec": {
+    "avatar_id": "strong_geo_04_east_asian_finance",
+    "age_band": "middle_aged",
+    "presentation": "formal",
+    "skin_tone": "light_olive",
+    "hair": "black",
+    "hair_style": "sleek_bob",
+    "attire": "business_suit",
+    "background": "neutral_studio_grey",
+    "pose": "three_quarter_profile",
+    "expression": "confident_calm",
+    "lighting": "warm_rim_lighting",
+    "aspect_ratio": "1:1",
+    "seed": 200004,
+    "cultural_context": "Tokyo financial district headquarters",
+    "notes": null,
+    "reference_images": null,
+    "consent_status": "not_applicable",
+    "reference_rights_status": "not_applicable",
+    "metadata": {}
+  },
+  "prompts": {
+    "positive_prompt": "Fictional portrait of a middle-aged person in their late 40s, formal aesthetic, light olive skin tone, sleek bob black hair, confident calm expression, three quarter profile, wearing business suit, set against a neutral studio grey background, illuminated by warm rim lighting lighting, sharp focus, professional portrait photography, 85mm lens, f/1.8 aperture, photorealistic, natural skin texture, finely detailed eyes",
+    "negative_prompt": "deformed, distorted, disfigured, poorly drawn face, bad anatomy, wrong proportions, extra eyes, extra limbs, amputee, unnatural skin texture, blurry, low resolution, jpeg artifacts, watermark, signature, text, logo, oversaturated, cartoon, 3d render, uncanny valley, cloned face, grotesque, morbid, poorly framed, cropped head",
+    "structured_clauses": {
+      "subject": "a middle-aged person in their late 40s",
+      "presentation": "formal aesthetic",
+      "skin_tone": "light olive skin tone",
+      "hair": "sleek bob black hair",
+      "expression": "confident calm expression",
+      "pose": "three quarter profile",
+      "attire": "wearing business suit",
+      "background": "set against a neutral studio grey background",
+      "lighting": "illuminated by warm rim lighting lighting"
+    },
+    "model_compatibility": "sd-1.5"
+  },
+  "safety_result": {
+    "is_safe": true,
+    "refusal_reasons": [],
+    "warnings": [],
+    "risk_score": 0.0,
+    "checked_at": "2026-09-11T14:00:51.847716+00:00"
+  },
+  "seed": 200004,
+  "metadata": {
+    "job_id": "job_strong_geo_04_east_asian_finance_200004",
+    "created_at": "2026-09-11T14:00:51.847755+00:00",
+    "model_repo": "stable-diffusion-v1-5/stable-diffusion-v1-5",
+    "model_revision": "main",
+    "inference_steps": 25,
+    "guidance_scale": 7.5,
+    "width": 512,
+    "height": 512,
+    "seed": 200004,
+    "route": "mock_runner"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "positive_prompt": "Fictional portrait of an adult in their 30s, academic aesthetic, fair skin tone, shoulder length wavy golden blonde hair, thoughtful composed expression, front facing portrait, wearing turtleneck, set against a sunlit library background, illuminated by natural window light lighting, sharp focus, professional portrait photography, 85mm lens, f/1.8 aperture, photorealistic, natural skin texture, finely detailed eyes",
+  "negative_prompt": "deformed, distorted, disfigured, poorly drawn face, bad anatomy, wrong proportions, extra eyes, extra limbs, amputee, unnatural skin texture, blurry, low resolution, jpeg artifacts, watermark, signature, text, logo, oversaturated, cartoon, 3d render, uncanny valley, cloned face, grotesque, morbid, poorly framed, cropped head",
+  "structured_clauses": {
+    "subject": "an adult in their 30s",
+    "presentation": "academic aesthetic",
+    "skin_tone": "fair skin tone",
+    "hair": "shoulder length wavy golden blonde hair",
+    "expression": "thoughtful composed expression",
+    "pose": "front facing portrait",
+    "attire": "wearing turtleneck",
+    "background": "set against a sunlit library background",
+    "lighting": "illuminated by natural window light lighting"
+  },
+  "model_compatibility": "sd-1.5"
+}

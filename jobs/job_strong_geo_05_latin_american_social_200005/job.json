@@ -1,0 +1,60 @@
+{
+  "job_id": "job_strong_geo_05_latin_american_social_200005",
+  "avatar_spec": {
+    "avatar_id": "strong_geo_05_latin_american_social",
+    "age_band": "young_adult",
+    "presentation": "creative",
+    "skin_tone": "warm_tan",
+    "hair": "dark_brown",
+    "hair_style": "short_wavy",
+    "attire": "business_casual",
+    "background": "sunlit_library",
+    "pose": "relaxed_headshot",
+    "expression": "warm_smile",
+    "lighting": "natural_window_light",
+    "aspect_ratio": "1:1",
+    "seed": 200005,
+    "cultural_context": "São Paulo social enterprise hub",
+    "notes": null,
+    "reference_images": null,
+    "consent_status": "not_applicable",
+    "reference_rights_status": "not_applicable",
+    "metadata": {}
+  },
+  "prompts": {
+    "positive_prompt": "Fictional portrait of a young adult in their early 20s, creative aesthetic, warm tan skin tone, short wavy dark brown hair, warm smile expression, relaxed headshot, wearing business casual, set against a sunlit library background, illuminated by natural window light lighting, sharp focus, professional portrait photography, 85mm lens, f/1.8 aperture, photorealistic, natural skin texture, finely detailed eyes",
+    "negative_prompt": "deformed, distorted, disfigured, poorly drawn face, bad anatomy, wrong proportions, extra eyes, extra limbs, amputee, unnatural skin texture, blurry, low resolution, jpeg artifacts, watermark, signature, text, logo, oversaturated, cartoon, 3d render, uncanny valley, cloned face, grotesque, morbid, poorly framed, cropped head",
+    "structured_clauses": {
+      "subject": "a young adult in their early 20s",
+      "presentation": "creative aesthetic",
+      "skin_tone": "warm tan skin tone",
+      "hair": "short wavy dark brown hair",
+      "expression": "warm smile expression",
+      "pose": "relaxed headshot",
+      "attire": "wearing business casual",
+      "background": "set against a sunlit library background",
+      "lighting": "illuminated by natural window light lighting"
+    },
+    "model_compatibility": "sd-1.5"
+  },
+  "safety_result": {
+    "is_safe": true,
+    "refusal_reasons": [],
+    "warnings": [],
+    "risk_score": 0.0,
+    "checked_at": "2026-09-11T14:00:51.883547+00:00"
+  },
+  "seed": 200005,
+  "metadata": {
+    "job_id": "job_strong_geo_05_latin_american_social_200005",
+    "created_at": "2026-09-11T14:00:51.883595+00:00",
+    "model_repo": "stable-diffusion-v1-5/stable-diffusion-v1-5",
+    "model_revision": "main",
+    "inference_steps": 25,
+    "guidance_scale": 7.5,
+    "width": 512,
+    "height": 512,
+    "seed": 200005,
+    "route": "mock_runner"
+  }
+}

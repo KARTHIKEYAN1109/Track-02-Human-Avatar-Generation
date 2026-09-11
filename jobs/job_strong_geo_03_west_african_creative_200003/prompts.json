@@ -1,0 +1,16 @@
+{
+  "positive_prompt": "Fictional portrait of an adult in their 30s, creative aesthetic, deep ebony skin tone, braided locs black hair, confident calm expression, front facing portrait, wearing tailored blazer, set against a architectural concrete background, illuminated by cinematic balanced lighting, sharp focus, professional portrait photography, 85mm lens, f/1.8 aperture, photorealistic, natural skin texture, finely detailed eyes",
+  "negative_prompt": "deformed, distorted, disfigured, poorly drawn face, bad anatomy, wrong proportions, extra eyes, extra limbs, amputee, unnatural skin texture, blurry, low resolution, jpeg artifacts, watermark, signature, text, logo, oversaturated, cartoon, 3d render, uncanny valley, cloned face, grotesque, morbid, poorly framed, cropped head",
+  "structured_clauses": {
+    "subject": "an adult in their 30s",
+    "presentation": "creative aesthetic",
+    "skin_tone": "deep ebony skin tone",
+    "hair": "braided locs black hair",
+    "expression": "confident calm expression",
+    "pose": "front facing portrait",
+    "attire": "wearing tailored blazer",
+    "background": "set against a architectural concrete background",
+    "lighting": "illuminated by cinematic balanced lighting"
+  },
+  "model_compatibility": "sd-1.5"
+}

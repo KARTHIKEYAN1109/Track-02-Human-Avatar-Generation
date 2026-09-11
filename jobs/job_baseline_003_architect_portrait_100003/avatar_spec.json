@@ -1,0 +1,21 @@
+{
+  "avatar_id": "baseline_003_architect_portrait",
+  "age_band": "adult",
+  "presentation": "creative",
+  "skin_tone": "deep_ebony",
+  "hair": "black",
+  "hair_style": "braided_locs",
+  "attire": "linen_shirt",
+  "background": "architectural_concrete",
+  "pose": "relaxed_headshot",
+  "expression": "thoughtful_composed",
+  "lighting": "cinematic_balanced",
+  "aspect_ratio": "1:1",
+  "seed": 100003,
+  "cultural_context": "architectural pavilion",
+  "notes": "Baseline avatar 3: Architect portrait with braided locs.",
+  "reference_images": null,
+  "consent_status": "not_applicable",
+  "reference_rights_status": "not_applicable",
+  "metadata": {}
+}

@@ -1,0 +1,21 @@
+{
+  "avatar_id": "baseline_006_athletic_trainer",
+  "age_band": "young_adult",
+  "presentation": "athletic",
+  "skin_tone": "warm_tan",
+  "hair": "golden_blonde",
+  "hair_style": "high_ponytail",
+  "attire": "crewneck_sweater",
+  "background": "soft_studio_diffused",
+  "pose": "front_facing_portrait",
+  "expression": "warm_smile",
+  "lighting": "soft_studio",
+  "aspect_ratio": "1:1",
+  "seed": 100006,
+  "cultural_context": "wellness center",
+  "notes": "Baseline avatar 6: Athletic coach portrait.",
+  "reference_images": null,
+  "consent_status": "not_applicable",
+  "reference_rights_status": "not_applicable",
+  "metadata": {}
+}

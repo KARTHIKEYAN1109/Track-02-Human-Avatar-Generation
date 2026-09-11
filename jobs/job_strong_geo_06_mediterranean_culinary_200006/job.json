@@ -1,0 +1,60 @@
+{
+  "job_id": "job_strong_geo_06_mediterranean_culinary_200006",
+  "avatar_spec": {
+    "avatar_id": "strong_geo_06_mediterranean_culinary",
+    "age_band": "senior",
+    "presentation": "casual",
+    "skin_tone": "rich_bronze",
+    "hair": "silver_grey",
+    "hair_style": "short_fade",
+    "attire": "linen_shirt",
+    "background": "soft_warm_gradient",
+    "pose": "front_facing_portrait",
+    "expression": "warm_smile",
+    "lighting": "soft_studio",
+    "aspect_ratio": "1:1",
+    "seed": 200006,
+    "cultural_context": "Mediterranean coastal culinary institute",
+    "notes": null,
+    "reference_images": null,
+    "consent_status": "not_applicable",
+    "reference_rights_status": "not_applicable",
+    "metadata": {}
+  },
+  "prompts": {
+    "positive_prompt": "Fictional portrait of a senior person in their 60s with subtle natural aging lines, casual aesthetic, rich bronze skin tone, short fade silver grey hair, warm smile expression, front facing portrait, wearing linen shirt, set against a soft warm gradient background, illuminated by soft studio lighting, sharp focus, professional portrait photography, 85mm lens, f/1.8 aperture, photorealistic, natural skin texture, finely detailed eyes",
+    "negative_prompt": "deformed, distorted, disfigured, poorly drawn face, bad anatomy, wrong proportions, extra eyes, extra limbs, amputee, unnatural skin texture, blurry, low resolution, jpeg artifacts, watermark, signature, text, logo, oversaturated, cartoon, 3d render, uncanny valley, cloned face, grotesque, morbid, poorly framed, cropped head",
+    "structured_clauses": {
+      "subject": "a senior person in their 60s with subtle natural aging lines",
+      "presentation": "casual aesthetic",
+      "skin_tone": "rich bronze skin tone",
+      "hair": "short fade silver grey hair",
+      "expression": "warm smile expression",
+      "pose": "front facing portrait",
+      "attire": "wearing linen shirt",
+      "background": "set against a soft warm gradient background",
+      "lighting": "illuminated by soft studio lighting"
+    },
+    "model_compatibility": "sd-1.5"
+  },
+  "safety_result": {
+    "is_safe": true,
+    "refusal_reasons": [],
+    "warnings": [],
+    "risk_score": 0.0,
+    "checked_at": "2026-09-11T14:00:51.910098+00:00"
+  },
+  "seed": 200006,
+  "metadata": {
+    "job_id": "job_strong_geo_06_mediterranean_culinary_200006",
+    "created_at": "2026-09-11T14:00:51.910133+00:00",
+    "model_repo": "stable-diffusion-v1-5/stable-diffusion-v1-5",
+    "model_revision": "main",
+    "inference_steps": 25,
+    "guidance_scale": 7.5,
+    "width": 512,
+    "height": 512,
+    "seed": 200006,
+    "route": "mock_runner"
+  }
+}

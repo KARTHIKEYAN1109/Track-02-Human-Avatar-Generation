@@ -1,0 +1,16 @@
+{
+  "positive_prompt": "Fictional portrait of a young adult in their early 20s, creative aesthetic, warm tan skin tone, short wavy dark brown hair, warm smile expression, relaxed headshot, wearing business casual, set against a sunlit library background, illuminated by natural window light lighting, sharp focus, professional portrait photography, 85mm lens, f/1.8 aperture, photorealistic, natural skin texture, finely detailed eyes",
+  "negative_prompt": "deformed, distorted, disfigured, poorly drawn face, bad anatomy, wrong proportions, extra eyes, extra limbs, amputee, unnatural skin texture, blurry, low resolution, jpeg artifacts, watermark, signature, text, logo, oversaturated, cartoon, 3d render, uncanny valley, cloned face, grotesque, morbid, poorly framed, cropped head",
+  "structured_clauses": {
+    "subject": "a young adult in their early 20s",
+    "presentation": "creative aesthetic",
+    "skin_tone": "warm tan skin tone",
+    "hair": "short wavy dark brown hair",
+    "expression": "warm smile expression",
+    "pose": "relaxed headshot",
+    "attire": "wearing business casual",
+    "background": "set against a sunlit library background",
+    "lighting": "illuminated by natural window light lighting"
+  },
+  "model_compatibility": "sd-1.5"
+}

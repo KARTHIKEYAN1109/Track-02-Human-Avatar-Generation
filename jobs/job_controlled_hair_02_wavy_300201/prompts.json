@@ -1,0 +1,16 @@
+{
+  "positive_prompt": "Fictional portrait of an adult in their 30s, professional aesthetic, medium warm skin tone, shoulder length wavy dark brown hair, neutral friendly expression, front facing portrait, wearing business casual, set against a neutral studio background, illuminated by soft studio lighting, sharp focus, professional portrait photography, 85mm lens, f/1.8 aperture, photorealistic, natural skin texture, finely detailed eyes",
+  "negative_prompt": "deformed, distorted, disfigured, poorly drawn face, bad anatomy, wrong proportions, extra eyes, extra limbs, amputee, unnatural skin texture, blurry, low resolution, jpeg artifacts, watermark, signature, text, logo, oversaturated, cartoon, 3d render, uncanny valley, cloned face, grotesque, morbid, poorly framed, cropped head",
+  "structured_clauses": {
+    "subject": "an adult in their 30s",
+    "presentation": "professional aesthetic",
+    "skin_tone": "medium warm skin tone",
+    "hair": "shoulder length wavy dark brown hair",
+    "expression": "neutral friendly expression",
+    "pose": "front facing portrait",
+    "attire": "wearing business casual",
+    "background": "set against a neutral studio background",
+    "lighting": "illuminated by soft studio lighting"
+  },
+  "model_compatibility": "sd-1.5"
+}

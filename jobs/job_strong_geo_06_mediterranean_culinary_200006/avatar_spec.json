@@ -1,0 +1,21 @@
+{
+  "avatar_id": "strong_geo_06_mediterranean_culinary",
+  "age_band": "senior",
+  "presentation": "casual",
+  "skin_tone": "rich_bronze",
+  "hair": "silver_grey",
+  "hair_style": "short_fade",
+  "attire": "linen_shirt",
+  "background": "soft_warm_gradient",
+  "pose": "front_facing_portrait",
+  "expression": "warm_smile",
+  "lighting": "soft_studio",
+  "aspect_ratio": "1:1",
+  "seed": 200006,
+  "cultural_context": "Mediterranean coastal culinary institute",
+  "notes": null,
+  "reference_images": null,
+  "consent_status": "not_applicable",
+  "reference_rights_status": "not_applicable",
+  "metadata": {}
+}

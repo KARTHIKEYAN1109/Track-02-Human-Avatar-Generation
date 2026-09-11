@@ -1,0 +1,21 @@
+{
+  "avatar_id": "controlled_bg_03_office",
+  "age_band": "adult",
+  "presentation": "professional",
+  "skin_tone": "medium_warm",
+  "hair": "dark_brown",
+  "hair_style": "short_fade",
+  "attire": "business_casual",
+  "background": "minimalist_modern_office",
+  "pose": "front_facing_portrait",
+  "expression": "neutral_friendly",
+  "lighting": "soft_studio",
+  "aspect_ratio": "1:1",
+  "seed": 300401,
+  "cultural_context": null,
+  "notes": null,
+  "reference_images": null,
+  "consent_status": "not_applicable",
+  "reference_rights_status": "not_applicable",
+  "metadata": {}
+}

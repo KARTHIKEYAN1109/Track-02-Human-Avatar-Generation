@@ -1,0 +1,16 @@
+{
+  "positive_prompt": "Fictional portrait of a middle-aged person in their late 40s, creative aesthetic, fair skin tone, sleek bob auburn hair, confident calm expression, three quarter profile, wearing tailored blazer, set against a sunlit library background, illuminated by natural window light lighting, sharp focus, professional portrait photography, 85mm lens, f/1.8 aperture, photorealistic, natural skin texture, finely detailed eyes",
+  "negative_prompt": "deformed, distorted, disfigured, poorly drawn face, bad anatomy, wrong proportions, extra eyes, extra limbs, amputee, unnatural skin texture, blurry, low resolution, jpeg artifacts, watermark, signature, text, logo, oversaturated, cartoon, 3d render, uncanny valley, cloned face, grotesque, morbid, poorly framed, cropped head",
+  "structured_clauses": {
+    "subject": "a middle-aged person in their late 40s",
+    "presentation": "creative aesthetic",
+    "skin_tone": "fair skin tone",
+    "hair": "sleek bob auburn hair",
+    "expression": "confident calm expression",
+    "pose": "three quarter profile",
+    "attire": "wearing tailored blazer",
+    "background": "set against a sunlit library background",
+    "lighting": "illuminated by natural window light lighting"
+  },
+  "model_compatibility": "sd-1.5"
+}
