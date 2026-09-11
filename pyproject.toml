@@ -1,0 +1,45 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "avatar-system"
+version = "0.1.0"
+description = "Open-Source AI Human-Avatar Generation System (Track 02)"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [
+    {name = "Candidate Submission - SASTRA 2027", email = "candidate@incubrix-assessment.local"}
+]
+dependencies = [
+    "pydantic>=2.7.0,<3.0.0",
+    "pyyaml>=6.0.1",
+    "pillow>=10.2.0",
+    "click>=8.1.7",
+    "rich>=13.7.0",
+    "requests>=2.31.0",
+    "psutil>=5.9.8",
+    "numpy>=1.26.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.1.0",
+    "pytest-cov>=4.1.0",
+]
+
+[project.scripts]
+avatar = "avatar_system.cli:cli"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_functions = ["test_*"]
+addopts = "-v --tb=short"
+filterwarnings = [
+    "ignore::DeprecationWarning",
+]
