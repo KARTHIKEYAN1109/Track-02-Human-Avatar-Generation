@@ -1,0 +1,43 @@
+# Exceptional Reference Image Mode Specifications
+# Demonstrates explicit consent validation and strict safety refusal on absent/unauthorized consent.
+
+avatars:
+  # Case 1: Consented reference image (Explicit consent granted, verified IP rights)
+  - avatar_id: "exceptional_consented_01"
+    age_band: "adult"
+    presentation: "professional"
+    skin_tone: "medium_warm"
+    hair: "dark_brown"
+    hair_style: "short_fade"
+    attire: "business_suit"
+    background: "neutral_studio"
+    pose: "front_facing_portrait"
+    expression: "confident_calm"
+    lighting: "soft_studio"
+    aspect_ratio: "1:1"
+    seed: 400001
+    reference_images:
+      - "data/references/consented_subject_sample.png"
+    consent_status: "granted"
+    reference_rights_status: "owned"
+    notes: "Consented personalized avatar generation with verified rights."
+
+  # Case 2: Unconsented reference image (Consent withheld -> MUST TRIGGER SAFETY REFUSAL)
+  - avatar_id: "exceptional_refusal_unconsented"
+    age_band: "adult"
+    presentation: "professional"
+    skin_tone: "medium_warm"
+    hair: "dark_brown"
+    hair_style: "short_fade"
+    attire: "business_suit"
+    background: "neutral_studio"
+    pose: "front_facing_portrait"
+    expression: "confident_calm"
+    lighting: "soft_studio"
+    aspect_ratio: "1:1"
+    seed: 400002
+    reference_images:
+      - "data/references/unauthorized_sample.png"
+    consent_status: "withheld"
+    reference_rights_status: "unauthorized"
+    notes: "Security test: Missing consent must trigger safety refusal."
