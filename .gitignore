@@ -36,8 +36,15 @@ dist/
 .DS_Store
 Thumbs.db
 
-# Large weights or raw checkpoints (keep model downloads outside git)
 models/
 *.ckpt
 *.safetensors
 *.bin
+
+# Archives / temporary export bundles
+*.zip
+*.tar.gz
+
+# Generated job bundles
+jobs/*
+!jobs/.gitkeep
